@@ -6,6 +6,8 @@ Para utilizar o código de maneira executável, é necessário efetuar a entrada
 
 Porém, caso deseje extrair o código para alterações, é necessário baixar o Python e as bibliotecas necessárias, como bs4, selenium, reportlab.
 
+O download do software estará disponível na aba [Release](https://github.com/UNIVEM-BCC-BSI/CPLP/releases/tag/v1.0.0)
+
 - # Objetivo do aplicativo:
 A finalidade do CPLP é ajudar restaurantes a efetuar uma comparação de preços entre os concorrentes da região e conseguir direcionar melhor os valores promocionais do dia, alteração nos preços dos pratos, poupa tempo de entrar nos cardápios de outros restaurantes 1 por vez e se posicionar melhor no mercado, tendo como foco a satisfação e facilidade que o restaurante terá.
 
